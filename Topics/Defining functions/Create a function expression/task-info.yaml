@@ -1,0 +1,10 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: // Write a function sum here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24017#comment
+status: Unchecked
+record: -1
+submission_language: javascript
